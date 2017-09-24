@@ -1,35 +1,30 @@
 .cli {
-	width: 100%;
-	display: inline-flex;
-	font-size: xx-large;
-}
+  width: 100%;
+  display: inline-flex;
+  font-size: xx-large; }
 
 .cli p {
-	margin: 0px;
-	margin-right: 8px;
-}
+  margin: 0px;
+  margin-right: 8px; }
 
 .cli input {
-	padding: 0px;
-	flex-grow: 1;
-	border: none;
-	font-size: inherit;
-	width: auto;
-}
+  padding: 0px;
+  flex-grow: 1;
+  border: none;
+  font-size: inherit;
+  width: auto; }
 
-.cli input:focus { 
-	outline: none; 
-}
+.cli input:focus {
+  outline: none; }
 
 ::-webkit-input-placeholder {
-   font-style: italic;
-}
+  font-style: italic; }
+
 :-moz-placeholder {
-   font-style: italic;  
-}
+  font-style: italic; }
+
 ::-moz-placeholder {
-   font-style: italic;  
-}
-:-ms-input-placeholder {  
-   font-style: italic; 
-}
+  font-style: italic; }
+
+:-ms-input-placeholder {
+  font-style: italic; }
