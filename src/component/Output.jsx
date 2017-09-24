@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
+import './css/Output.css';
 
 class Output extends Component {
   render() {
     return (
-      <p>OUTPUT</p>
+      <p className="output">OUTPUT</p>
     );
   }
 }

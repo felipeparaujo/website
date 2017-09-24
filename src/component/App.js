@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import './App.css';
-import Cli from './component/Cli';
-import Output from './component/Output'
+import './css/App.css';
+import Cli from './Cli';
+import Output from './Output'
 
 class App extends Component {
   render() {
